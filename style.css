@@ -1,0 +1,19 @@
+body {
+  background-color: #4f74da;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main {
+  background-color: rgb(10, 25, 66);
+  color: white;
+  display: block;
+}
+ul {
+  list-style-type: none;
+}
+
+menu {
+  margin: 1em;
+  padding-inline-start: 0;
+}
